@@ -3,30 +3,30 @@ banner:
   title: Never thought it would be so hard, to make something SOOO average
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: 'It''s like watching a retard fucking a doorknob, you know you should stop
+    them, or look away but it''s strangely fascinating. It''s akin to bashing your
+    head against a brickwall and thoroughly enjoying it, or sticking your balls in
+    a vice and slowly turning. Excruciating pain that in the end does little more
+    than get us back to the part of watching retards fuck the wrong thing. '
   button:
     enable: true
-    label: know more
+    label: You Fukn Perve, Find out MORE?
     URL: about
 skill:
   enable: true
   title: Skills
   item:
-  - title: Web Design
-    progress: 90%
+  - title: Fucking Doorknobs
+    progress: 80%
     color: "#fdb157"
-  - title: Logo Design
-    progress: 60%
+  - title: Heads - Brick Walls
+    progress: 40%
     color: "#9473e6"
-  - title: After Effects
+  - title: Balls Vice Ouwweeee
     progress: 80%
     color: "#bdecf6"
-  - title: Web App
-    progress: 70%
+  - title: HUGO, Boss- hardly
+    progress: 5%
     color: "#ffbcaa"
 experience:
   enable: true
